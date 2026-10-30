@@ -35,3 +35,6 @@ Please listen to this carefully. Root access is an essential part of every OS, a
 2. [Redmi 13C 4G / Poco C65 (gale/gust)](https://github.com/IsHacker-kernel/android_kernel_xiaomi_gale) [W.I.P, not released yet]
 ## HMD Global
 1. [Nokia 3 (heart/NE1)](https://github.com/IsHacker-kernel/android_kernel_nokia_heart) [W.I.P, not released yet]
+
+# Unofficial builds
+I cannot own every single device and build this kernel for it. Even if I could own them, I wouldn't have the time. As a result, if you are making a custom kernel for an old and/or low-end device and your kernel has the features listed above, you can brand it as IsHacker kernel by using the banner image and this README (after adopting the text for your device). No prior permission is required from me, as this text and the image is licensed under CC0-1.0 Universal. If you have any questions, create an issue [here](https://github.com/IsHacker-kernel/.github/issues).
